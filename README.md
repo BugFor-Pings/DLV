@@ -10,7 +10,7 @@
 
 欢迎来到 DLV(Daily Latest Vulnerabilities)每日最新漏洞情报分享仓库，本仓库是提供各平台每日最新的漏洞情报，帮助安全研究人员和系统管理员保护他们的系统免受潜在的威胁。
 
-您可以在如下地址预览实时的漏洞情报：http://vul.hackersafe.cn（2025年底进行开源，就当送给各位的礼物了）
+您可以在如下地址预览实时的漏洞情报：http://vul.hackersafe.cn      （从项目创建开始就有很多朋友在问，打算2025年底进行开源，就当送给各位的新年礼物了，希望各位越来越好）
 
 ![图片](https://github.com/user-attachments/assets/7eddf641-1393-43a3-8c97-bb7a4450f8f0)
 
