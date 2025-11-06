@@ -1,0 +1,3004 @@
+2025-03-22 19:54:44 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 19:54:44 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 19:54:44 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 19:54:44 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 19:54:44 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 19:54:44 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 19:54:44 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 19:54:50 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 19:54:50 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 19:54:50 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 19:54:50 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 19:54:50 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 19:54:50 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 19:54:50 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 19:54:50 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 19:55:51 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 19:55:51 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 19:55:51 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 19:55:51 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 19:55:56 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 19:55:56 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 19:55:56 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 19:55:56 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 19:56:55 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 19:56:55 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 19:56:55 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 19:56:55 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 19:57:02 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 19:57:02 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 19:57:02 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 19:57:02 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 19:57:40 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 19:57:40 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 19:57:40 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 19:57:40 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 19:57:40 [ERROR] : 获取 [Tenable (Nessus)] 威胁情报异常: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 19:57:40 [ERROR] : 获取 [Tenable (Nessus)] 威胁情报异常: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 19:57:40 [ERROR] : Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 19:57:40 [ERROR] : Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 19:57:41 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 19:57:41 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 19:57:41 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 19:57:41 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 19:57:41 [ERROR] : 获取 [Tenable (Nessus)] 威胁情报异常: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 19:57:41 [ERROR] : 获取 [Tenable (Nessus)] 威胁情报异常: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 19:57:41 [ERROR] : Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 19:57:41 [ERROR] : Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 19:58:47 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 19:58:47 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 19:58:47 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 19:58:47 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 19:58:47 [ERROR] : 获取 [Tenable (Nessus)] 威胁情报异常: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 19:58:47 [ERROR] : 获取 [Tenable (Nessus)] 威胁情报异常: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 19:58:47 [ERROR] : Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 19:58:47 [ERROR] : Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 19:58:47 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 19:58:47 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 19:58:47 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 19:58:47 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 19:58:47 [ERROR] : 获取 [Tenable (Nessus)] 威胁情报异常: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 19:58:47 [ERROR] : 获取 [Tenable (Nessus)] 威胁情报异常: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 19:58:48 [ERROR] : Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 19:58:48 [ERROR] : Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 19:58:57 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 19:58:57 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 19:58:57 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 19:58:57 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 19:58:57 [ERROR] : 获取 [Tenable (Nessus)] 威胁情报异常: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 19:58:57 [ERROR] : 获取 [Tenable (Nessus)] 威胁情报异常: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 19:58:57 [ERROR] : Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 19:58:57 [ERROR] : Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 19:58:57 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 19:58:57 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 19:58:57 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 19:58:57 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 19:58:57 [ERROR] : 获取 [Tenable (Nessus)] 威胁情报异常: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 19:58:57 [ERROR] : 获取 [Tenable (Nessus)] 威胁情报异常: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 19:58:57 [ERROR] : Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 19:58:57 [ERROR] : Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 19:59:57 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 19:59:57 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 19:59:57 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 19:59:57 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 19:59:57 [ERROR] : 获取 [Tenable (Nessus)] 威胁情报异常: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 19:59:57 [ERROR] : 获取 [Tenable (Nessus)] 威胁情报异常: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 19:59:57 [ERROR] : Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 19:59:57 [ERROR] : Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 20:00:04 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 20:00:04 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 20:00:04 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 20:00:04 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 20:00:04 [ERROR] : 获取 [Tenable (Nessus)] 威胁情报异常: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 20:00:04 [ERROR] : 获取 [Tenable (Nessus)] 威胁情报异常: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 20:00:04 [ERROR] : Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 20:00:04 [ERROR] : Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 20:01:04 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 20:01:04 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 20:01:04 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 20:01:04 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 20:01:04 [ERROR] : 获取 [Tenable (Nessus)] 威胁情报异常: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 20:01:04 [ERROR] : 获取 [Tenable (Nessus)] 威胁情报异常: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 20:01:04 [ERROR] : Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 20:01:04 [ERROR] : Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 20:01:16 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 20:01:16 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 20:01:16 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 20:01:16 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 20:01:16 [ERROR] : 获取 [Tenable (Nessus)] 威胁情报异常: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 20:01:16 [ERROR] : 获取 [Tenable (Nessus)] 威胁情报异常: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 20:01:16 [ERROR] : Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 20:01:16 [ERROR] : Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 20:02:57 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 20:02:57 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 20:02:57 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 20:02:57 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 20:02:57 [ERROR] : 获取 [Tenable (Nessus)] 威胁情报异常: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 20:02:57 [ERROR] : 获取 [Tenable (Nessus)] 威胁情报异常: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 20:02:57 [ERROR] : Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 20:02:57 [ERROR] : Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 20:02:58 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 20:02:58 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 20:02:58 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 20:02:58 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 20:02:58 [ERROR] : 获取 [Tenable (Nessus)] 威胁情报异常: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 20:02:58 [ERROR] : 获取 [Tenable (Nessus)] 威胁情报异常: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 20:02:58 [ERROR] : Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 20:02:58 [ERROR] : Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\pachong_config.py", line 461, in get_cves
+    self.url,
+    ^^^^^^^^
+AttributeError: 'Tenable' object has no attribute 'url'
+2025-03-22 20:04:29 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 20:04:29 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 20:04:29 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 20:04:29 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 20:04:29 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 20:04:29 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 20:04:29 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 20:04:29 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 20:04:37 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 20:04:37 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 20:04:37 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 20:04:37 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 20:04:38 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 20:04:38 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 20:04:38 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 20:04:38 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 22:51:32 [ERROR] : 获取 [OSCS1024漏洞库] 漏洞信息异常: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+Traceback (most recent call last):
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 775, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 1044, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Python313\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Python313\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 775, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 1044, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Python313\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\demo\pachong_config.py", line 201, in vulnerabilities
+    new_vulnerabilities = self.get_vulnerabilities()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\demo\pachong_config.py", line 294, in get_vulnerabilities
+    response = requests.get(
+        self.url,
+        headers=self.headers(),
+        timeout=self.timeout
+    )
+  File "D:\Python313\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "D:\Python313\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Python313\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Python313\Lib\site-packages\requests\adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2025-03-22 22:51:32 [ERROR] : 获取 [OSCS1024漏洞库] 漏洞信息异常: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+Traceback (most recent call last):
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 775, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 1044, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Python313\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Python313\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 775, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 1044, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Python313\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\demo\pachong_config.py", line 201, in vulnerabilities
+    new_vulnerabilities = self.get_vulnerabilities()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\demo\pachong_config.py", line 294, in get_vulnerabilities
+    response = requests.get(
+        self.url,
+        headers=self.headers(),
+        timeout=self.timeout
+    )
+  File "D:\Python313\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "D:\Python313\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Python313\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Python313\Lib\site-packages\requests\adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2025-03-22 22:51:32 [ERROR] : Traceback (most recent call last):
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 775, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 1044, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Python313\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Python313\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 775, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 1044, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Python313\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\demo\pachong_config.py", line 201, in vulnerabilities
+    new_vulnerabilities = self.get_vulnerabilities()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\demo\pachong_config.py", line 294, in get_vulnerabilities
+    response = requests.get(
+        self.url,
+        headers=self.headers(),
+        timeout=self.timeout
+    )
+  File "D:\Python313\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "D:\Python313\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Python313\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Python313\Lib\site-packages\requests\adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+Traceback (most recent call last):
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 775, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 1044, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Python313\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Python313\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 775, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 1044, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Python313\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\demo\pachong_config.py", line 201, in vulnerabilities
+    new_vulnerabilities = self.get_vulnerabilities()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\demo\pachong_config.py", line 294, in get_vulnerabilities
+    response = requests.get(
+        self.url,
+        headers=self.headers(),
+        timeout=self.timeout
+    )
+  File "D:\Python313\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "D:\Python313\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Python313\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Python313\Lib\site-packages\requests\adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2025-03-22 22:51:32 [ERROR] : Traceback (most recent call last):
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 775, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 1044, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Python313\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Python313\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 775, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 1044, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Python313\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\demo\pachong_config.py", line 201, in vulnerabilities
+    new_vulnerabilities = self.get_vulnerabilities()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\demo\pachong_config.py", line 294, in get_vulnerabilities
+    response = requests.get(
+        self.url,
+        headers=self.headers(),
+        timeout=self.timeout
+    )
+  File "D:\Python313\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "D:\Python313\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Python313\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Python313\Lib\site-packages\requests\adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+Traceback (most recent call last):
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 775, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 1044, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Python313\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Python313\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 775, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 1044, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Python313\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\demo\pachong_config.py", line 201, in vulnerabilities
+    new_vulnerabilities = self.get_vulnerabilities()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\demo\pachong_config.py", line 294, in get_vulnerabilities
+    response = requests.get(
+        self.url,
+        headers=self.headers(),
+        timeout=self.timeout
+    )
+  File "D:\Python313\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "D:\Python313\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Python313\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Python313\Lib\site-packages\requests\adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2025-03-22 22:51:33 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 22:51:33 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 22:51:33 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 22:51:33 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 22:51:35 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 22:51:35 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 22:51:35 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 22:51:35 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 22:51:49 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 22:51:49 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 22:51:49 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 22:51:49 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 22:51:50 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 22:51:50 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 22:51:50 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 22:51:50 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 22:51:54 [ERROR] : 获取 [Tenable (Nessus)] 威胁情报异常: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+Traceback (most recent call last):
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 775, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 1044, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Python313\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Python313\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 775, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 1044, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Python313\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\demo\pachong_config.py", line 461, in get_cves
+    response = requests.get(
+        self.url,
+        headers=self.headers(),
+        timeout=self.timeout
+    )
+  File "D:\Python313\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "D:\Python313\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Python313\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Python313\Lib\site-packages\requests\adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2025-03-22 22:51:54 [ERROR] : 获取 [Tenable (Nessus)] 威胁情报异常: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+Traceback (most recent call last):
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 775, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 1044, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Python313\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Python313\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 775, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 1044, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Python313\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\demo\pachong_config.py", line 461, in get_cves
+    response = requests.get(
+        self.url,
+        headers=self.headers(),
+        timeout=self.timeout
+    )
+  File "D:\Python313\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "D:\Python313\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Python313\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Python313\Lib\site-packages\requests\adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2025-03-22 22:51:54 [ERROR] : Traceback (most recent call last):
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 775, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 1044, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Python313\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Python313\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 775, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 1044, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Python313\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\demo\pachong_config.py", line 461, in get_cves
+    response = requests.get(
+        self.url,
+        headers=self.headers(),
+        timeout=self.timeout
+    )
+  File "D:\Python313\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "D:\Python313\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Python313\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Python313\Lib\site-packages\requests\adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+Traceback (most recent call last):
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 775, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 1044, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Python313\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Python313\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 775, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 1044, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Python313\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\demo\pachong_config.py", line 461, in get_cves
+    response = requests.get(
+        self.url,
+        headers=self.headers(),
+        timeout=self.timeout
+    )
+  File "D:\Python313\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "D:\Python313\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Python313\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Python313\Lib\site-packages\requests\adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2025-03-22 22:51:54 [ERROR] : Traceback (most recent call last):
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 775, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 1044, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Python313\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Python313\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 775, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 1044, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Python313\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\demo\pachong_config.py", line 461, in get_cves
+    response = requests.get(
+        self.url,
+        headers=self.headers(),
+        timeout=self.timeout
+    )
+  File "D:\Python313\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "D:\Python313\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Python313\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Python313\Lib\site-packages\requests\adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+Traceback (most recent call last):
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 775, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 1044, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Python313\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Python313\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 775, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 1044, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Python313\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\demo\pachong_config.py", line 461, in get_cves
+    response = requests.get(
+        self.url,
+        headers=self.headers(),
+        timeout=self.timeout
+    )
+  File "D:\Python313\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "D:\Python313\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Python313\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Python313\Lib\site-packages\requests\adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2025-03-22 22:53:32 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 22:53:32 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 22:53:32 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 22:53:32 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 22:53:33 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 22:53:33 [ERROR] : API返回状态不是success，状态为：except
+NoneType: None
+2025-03-22 22:53:33 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 22:53:33 [ERROR] : NoneType: None
+NoneType: None
+2025-03-22 22:53:38 [ERROR] : 获取 [Tenable (Nessus)] 威胁情报异常: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+Traceback (most recent call last):
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 775, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 1044, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Python313\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Python313\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 775, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 1044, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Python313\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\demo\pachong_config.py", line 461, in get_cves
+    response = requests.get(
+        self.url,
+        headers=self.headers(),
+        timeout=self.timeout
+    )
+  File "D:\Python313\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "D:\Python313\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Python313\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Python313\Lib\site-packages\requests\adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2025-03-22 22:53:38 [ERROR] : 获取 [Tenable (Nessus)] 威胁情报异常: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+Traceback (most recent call last):
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 775, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 1044, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Python313\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Python313\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 775, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 1044, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Python313\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\demo\pachong_config.py", line 461, in get_cves
+    response = requests.get(
+        self.url,
+        headers=self.headers(),
+        timeout=self.timeout
+    )
+  File "D:\Python313\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "D:\Python313\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Python313\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Python313\Lib\site-packages\requests\adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2025-03-22 22:53:38 [ERROR] : Traceback (most recent call last):
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 775, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 1044, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Python313\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Python313\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 775, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 1044, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Python313\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\demo\pachong_config.py", line 461, in get_cves
+    response = requests.get(
+        self.url,
+        headers=self.headers(),
+        timeout=self.timeout
+    )
+  File "D:\Python313\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "D:\Python313\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Python313\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Python313\Lib\site-packages\requests\adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+Traceback (most recent call last):
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 775, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 1044, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Python313\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Python313\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 775, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 1044, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Python313\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\demo\pachong_config.py", line 461, in get_cves
+    response = requests.get(
+        self.url,
+        headers=self.headers(),
+        timeout=self.timeout
+    )
+  File "D:\Python313\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "D:\Python313\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Python313\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Python313\Lib\site-packages\requests\adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2025-03-22 22:53:38 [ERROR] : Traceback (most recent call last):
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 775, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 1044, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Python313\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Python313\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 775, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 1044, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Python313\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\demo\pachong_config.py", line 461, in get_cves
+    response = requests.get(
+        self.url,
+        headers=self.headers(),
+        timeout=self.timeout
+    )
+  File "D:\Python313\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "D:\Python313\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Python313\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Python313\Lib\site-packages\requests\adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+Traceback (most recent call last):
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 775, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 1044, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Python313\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Python313\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 775, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "D:\Python313\Lib\site-packages\urllib3\connectionpool.py", line 1044, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "D:\Python313\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Python313\Lib\ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\demo\pachong_config.py", line 218, in cves
+    new_cves = self.get_cves()
+  File "C:\Users\Administrator\Desktop\聚合威胁情报平台demo\优化\demo\demo\pachong_config.py", line 461, in get_cves
+    response = requests.get(
+        self.url,
+        headers=self.headers(),
+        timeout=self.timeout
+    )
+  File "D:\Python313\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "D:\Python313\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python313\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Python313\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Python313\Lib\site-packages\requests\adapters.py", line 501, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))

@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block title %}报告准备中{% endblock %}
+
+{% block content %}
+<div class="text-center py-5" style="margin: 40px 0">
+    <div class="mb-4">
+        <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" fill="#ffc107" class="bi bi-hourglass-split" viewBox="0 0 16 16">
+            <path d="M2.5 15a.5.5 0 1 1 0-1h1v-1a4.5 4.5 0 0 1 2.557-4.06c.29-.139.443-.377.443-.59v-.7c0-.213-.154-.451-.443-.59A4.5 4.5 0 0 1 3.5 3V2h-1a.5.5 0 0 1 0-1h11a.5.5 0 0 1 0 1h-1v1a4.5 4.5 0 0 1-2.557 4.06c-.29.139-.443.377-.443.59v.7c0 .213.154.451.443.59A4.5 4.5 0 0 1 12.5 13v1h1a.5.5 0 0 1 0 1zm2-13v1c0 .537.12 1.045.337 1.5h6.326c.216-.455.337-.963.337-1.5V2zm3 6.35c0 .701-.478 1.236-1.011 1.492A3.5 3.5 0 0 0 4.5 13s.866-1.299 3-1.48zm1 0v3.17c2.134.181 3 1.48 3 1.48a3.5 3.5 0 0 0-1.989-3.158C8.978 9.586 8.5 9.052 8.5 8.351z"/>
+        </svg>
+    </div>
+    <div class="card shadow-sm mx-auto" style="max-width: 650px; border: none; border-radius: 10px;">
+        <div class="card-body p-5">
+            <h2 class="mb-3 fw-bold">报告数据正在整理去重导出中</h2>
+            <p class="lead mb-4 text-secondary">系统正在收集、整理和去重漏洞数据，这可能需要一些时间。请稍后再试。</p>
+            <p class="text-muted mb-5">当有新的漏洞数据被爬取并验证后，报告将自动生成。</p>
+			<p class="text-muted mb-5">数据报告每隔三分钟生成一次，获取到信息就立马更新报告！</p>
+			<p class="text-muted mb-5">Tips:报告与平台信息都是实时更新，记得常来下载报告获取最新信息，</p>
+			<p class="text-muted mb-5">注意:可能你3分钟前下载的报告没这个漏洞，那么3分钟后的报告绝对有！</p>
+            <a href="{{ url_for('index') }}" class="btn btn-primary btn-lg px-5 py-2" style="border-radius: 30px; font-weight: 500; border: none; background-color: #0275d8;">
+                <i class="bi bi-house-door me-2"></i> 返回首页
+            </a>
+        </div>
+    </div>
+</div>
+{% endblock %} 

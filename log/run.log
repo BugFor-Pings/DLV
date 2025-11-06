@@ -1,0 +1,116 @@
+2025-11-06 21:36:24 [INFO] : 已确保报告目录存在
+2025-11-06 21:36:24 [INFO] : 已确保报告目录存在
+2025-11-06 21:36:31 [INFO] : 已确保报告目录存在
+2025-11-06 21:36:31 [INFO] : 已确保报告目录存在
+2025-11-06 21:36:31 [INFO] : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8001
+ * Running on http://192.168.2.167:8001
+2025-11-06 21:36:31 [INFO] : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8001
+ * Running on http://192.168.2.167:8001
+2025-11-06 21:36:31 [INFO] : [33mPress CTRL+C to quit[0m
+2025-11-06 21:36:31 [INFO] : [33mPress CTRL+C to quit[0m
+2025-11-06 21:36:40 [INFO] : 127.0.0.1 - - [06/Nov/2025 21:36:40] "GET / HTTP/1.1" 200 -
+2025-11-06 21:36:40 [INFO] : 127.0.0.1 - - [06/Nov/2025 21:36:40] "GET / HTTP/1.1" 200 -
+2025-11-06 21:36:40 [INFO] : 127.0.0.1 - - [06/Nov/2025 21:36:40] "GET /static/css/custom.css HTTP/1.1" 200 -
+2025-11-06 21:36:40 [INFO] : 127.0.0.1 - - [06/Nov/2025 21:36:40] "GET /static/css/custom.css HTTP/1.1" 200 -
+2025-11-06 21:36:40 [INFO] : 127.0.0.1 - - [06/Nov/2025 21:36:40] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-11-06 21:36:40 [INFO] : 127.0.0.1 - - [06/Nov/2025 21:36:40] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-11-06 21:36:40 [INFO] : 127.0.0.1 - - [06/Nov/2025 21:36:40] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-11-06 21:36:40 [INFO] : 127.0.0.1 - - [06/Nov/2025 21:36:40] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-11-06 21:36:41 [INFO] : 127.0.0.1 - - [06/Nov/2025 21:36:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-06 21:36:41 [INFO] : 127.0.0.1 - - [06/Nov/2025 21:36:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-06 21:36:41 [INFO] : 127.0.0.1 - - [06/Nov/2025 21:36:41] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-11-06 21:36:41 [INFO] : 127.0.0.1 - - [06/Nov/2025 21:36:41] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-11-06 21:36:43 [INFO] : 127.0.0.1 - - [06/Nov/2025 21:36:43] "GET /download_report HTTP/1.1" 200 -
+2025-11-06 21:36:43 [INFO] : 127.0.0.1 - - [06/Nov/2025 21:36:43] "GET /download_report HTTP/1.1" 200 -
+2025-11-06 21:36:43 [INFO] : 127.0.0.1 - - [06/Nov/2025 21:36:43] "GET / HTTP/1.1" 200 -
+2025-11-06 21:36:43 [INFO] : 127.0.0.1 - - [06/Nov/2025 21:36:43] "GET / HTTP/1.1" 200 -
+2025-11-06 21:36:43 [INFO] : 127.0.0.1 - - [06/Nov/2025 21:36:43] "GET / HTTP/1.1" 200 -
+2025-11-06 21:36:43 [INFO] : 127.0.0.1 - - [06/Nov/2025 21:36:43] "GET / HTTP/1.1" 200 -
+2025-11-06 21:36:43 [INFO] : 127.0.0.1 - - [06/Nov/2025 21:36:43] "GET / HTTP/1.1" 200 -
+2025-11-06 21:36:43 [INFO] : 127.0.0.1 - - [06/Nov/2025 21:36:43] "GET / HTTP/1.1" 200 -
+2025-11-06 21:37:01 [INFO] : 开始爬取漏洞信息...
+2025-11-06 21:37:01 [INFO] : 开始爬取漏洞信息...
+2025-11-06 21:37:01 [INFO] : [OSCS1024漏洞库] 开始获取漏洞信息
+2025-11-06 21:37:01 [INFO] : [安天(antiycloud)] 开始获取漏洞信息
+2025-11-06 21:37:01 [INFO] : [OSCS1024漏洞库] 开始获取漏洞信息
+2025-11-06 21:37:01 [INFO] : [Tenable (Nessus)] 开始获取漏洞信息
+2025-11-06 21:37:01 [INFO] : [安天(antiycloud)] 开始获取漏洞信息
+2025-11-06 21:37:01 [INFO] : [微软安全响应中心] 开始获取漏洞信息
+2025-11-06 21:37:01 [INFO] : [Tenable (Nessus)] 开始获取漏洞信息
+2025-11-06 21:37:01 [INFO] : [CVE漏洞库] 开始获取最新CVE信息
+2025-11-06 21:37:01 [INFO] : [微软安全响应中心] 开始获取漏洞信息
+2025-11-06 21:37:01 [INFO] : [CVE漏洞库] 开始获取最新CVE信息
+2025-11-06 21:37:01 [INFO] : [CVE漏洞库] 当前日期: 2025-11-06, 只获取当天的CVE信息
+2025-11-06 21:37:01 [INFO] : [CVE漏洞库] 当前日期: 2025-11-06, 只获取当天的CVE信息
+2025-11-06 21:37:02 [ERROR] : [OSCS1024漏洞库] 获取漏洞信息失败: 404 Client Error: Not Found for url: https://www.oscs1024.com/oscs/v1/intelligence/list?page=1&per_page=50&type=intelligence&sort=newest
+2025-11-06 21:37:02 [ERROR] : [OSCS1024漏洞库] 获取漏洞信息失败: 404 Client Error: Not Found for url: https://www.oscs1024.com/oscs/v1/intelligence/list?page=1&per_page=50&type=intelligence&sort=newest
+2025-11-06 21:37:02 [ERROR] : Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\监控推送\3.0修复重复CVE问题_下载_端口检测\pachong_config.py", line 425, in vulnerabilities
+    response.raise_for_status()  # 检查HTTP错误
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://www.oscs1024.com/oscs/v1/intelligence/list?page=1&per_page=50&type=intelligence&sort=newest
+
+2025-11-06 21:37:02 [ERROR] : [安天(antiycloud)] 获取漏洞信息失败: 404 Client Error: NOT FOUND for url: https://www.antiycloud.com/api/v3/alert/list?page=1&size=50&type=cve
+2025-11-06 21:37:02 [ERROR] : Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\监控推送\3.0修复重复CVE问题_下载_端口检测\pachong_config.py", line 425, in vulnerabilities
+    response.raise_for_status()  # 检查HTTP错误
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://www.oscs1024.com/oscs/v1/intelligence/list?page=1&per_page=50&type=intelligence&sort=newest
+
+2025-11-06 21:37:02 [ERROR] : [安天(antiycloud)] 获取漏洞信息失败: 404 Client Error: NOT FOUND for url: https://www.antiycloud.com/api/v3/alert/list?page=1&size=50&type=cve
+2025-11-06 21:37:02 [ERROR] : Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\监控推送\3.0修复重复CVE问题_下载_端口检测\pachong_config.py", line 491, in cves
+    response.raise_for_status()  # 检查HTTP错误
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: NOT FOUND for url: https://www.antiycloud.com/api/v3/alert/list?page=1&size=50&type=cve
+
+2025-11-06 21:37:02 [ERROR] : Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\监控推送\3.0修复重复CVE问题_下载_端口检测\pachong_config.py", line 491, in cves
+    response.raise_for_status()  # 检查HTTP错误
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: NOT FOUND for url: https://www.antiycloud.com/api/v3/alert/list?page=1&size=50&type=cve
+
+2025-11-06 21:37:03 [ERROR] : [Tenable (Nessus)] 获取漏洞信息失败: 404 Client Error: Not Found for url: https://www.tenable.com/plugins/api/v2/plugins/search?page=1&size=50&sort=newest
+2025-11-06 21:37:03 [ERROR] : [Tenable (Nessus)] 获取漏洞信息失败: 404 Client Error: Not Found for url: https://www.tenable.com/plugins/api/v2/plugins/search?page=1&size=50&sort=newest
+2025-11-06 21:37:03 [ERROR] : Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\监控推送\3.0修复重复CVE问题_下载_端口检测\pachong_config.py", line 559, in cves
+    response.raise_for_status()  # 检查HTTP错误
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://www.tenable.com/plugins/api/v2/plugins/search?page=1&size=50&sort=newest
+
+2025-11-06 21:37:03 [ERROR] : Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\监控推送\3.0修复重复CVE问题_下载_端口检测\pachong_config.py", line 559, in cves
+    response.raise_for_status()  # 检查HTTP错误
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\Python313\Lib\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://www.tenable.com/plugins/api/v2/plugins/search?page=1&size=50&sort=newest
+
+2025-11-06 21:37:03 [ERROR] : [CVE漏洞库] 获取CVE信息失败: name 'processed_cve_ids' is not defined
+2025-11-06 21:37:03 [ERROR] : [CVE漏洞库] 获取CVE信息失败: name 'processed_cve_ids' is not defined
+2025-11-06 21:37:03 [ERROR] : Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\监控推送\3.0修复重复CVE问题_下载_端口检测\pachong_config.py", line 729, in get_cves
+    if date_updated.startswith(current_date) and cve_id not in processed_cve_ids:
+                                                               ^^^^^^^^^^^^^^^^^
+NameError: name 'processed_cve_ids' is not defined
+
+2025-11-06 21:37:03 [ERROR] : Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\监控推送\3.0修复重复CVE问题_下载_端口检测\pachong_config.py", line 729, in get_cves
+    if date_updated.startswith(current_date) and cve_id not in processed_cve_ids:
+                                                               ^^^^^^^^^^^^^^^^^
+NameError: name 'processed_cve_ids' is not defined
+

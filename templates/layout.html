@@ -1,0 +1,99 @@
+{% include  "header.html" %}
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+        <div class="container">
+            <a class="navbar-brand" href="{{ url_for('index') }}">漏洞预警平台</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav me-auto">
+                    <li class="nav-item">
+                        <a class="nav-link {% if not current_source %}active{% endif %}" href="{{ url_for('index') }}">全部</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link {% if current_source == 'OSCS1024漏洞库' %}active{% endif %}" href="{{ url_for('filter_by_source', source='OSCS1024漏洞库') }}">OSCS1024</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link {% if current_source == '安天(antiycloud)' %}active{% endif %}" href="{{ url_for('filter_by_source', source='安天(antiycloud)') }}">安天</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link {% if current_source == 'Tenable (Nessus)' %}active{% endif %}" href="{{ url_for('filter_by_source', source='Tenable (Nessus)') }}">Tenable</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link {% if current_source == '微软安全响应中心' %}active{% endif %}" href="{{ url_for('filter_by_source', source='微软安全响应中心') }}">微软安全中心</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link {% if current_source == 'CVE漏洞库' %}active{% endif %}" href="{{ url_for('filter_by_source', source='CVE漏洞库') }}">CVE漏洞库</a>
+                    </li>
+                    <!-- 增加公告部分 -->
+                    <li class="nav-item">
+                        <a class="nav-link" href="#" id="announcementBtn">公告</a>
+                    </li>
+                </ul>
+                <!-- 添加下载按钮 -->
+                <div class="d-flex me-2">
+                    <a href="{{ url_for('download_report') }}" class="btn btn-success btn-sm">
+                        <i class="bi bi-download"></i> 下载今日漏洞信息
+                    </a>
+                </div>
+                <!-- 修改搜索表单样式 -->
+                <form class="d-flex" action="{{ url_for('search') }}" method="get">
+                    <input class="form-control me-2" type="search" name="q" placeholder="搜索漏洞信息" value="{{ query if query else '' }}" style="height: 38px; border-radius: 4px;">
+                    <button class="btn" type="submit" style="width: 80px; height: 38px; background-color: #dc3545; color: white; border: none; border-radius: 4px; font-size: 16px;">搜索</button>
+                </form>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container">
+        {% block content %}{% endblock %}
+    </div>
+	
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    // 公告弹窗
+    $(document).ready(function(){
+        $('#announcementBtn').click(function(){
+            $('#announcementModal').modal('show');
+        });
+        
+        // 点击导航链接后自动收起导航菜单（移动设备）
+        $('.navbar-nav .nav-link').click(function() {
+            if ($('.navbar-toggler').is(':visible') && $('.navbar-collapse').hasClass('show')) {
+                $('.navbar-collapse').collapse('hide');
+            }
+        });
+        
+        // 点击汉堡菜单按钮时，如果菜单是展开的就收起它
+        $('.navbar-toggler').click(function() {
+            if ($('.navbar-collapse').hasClass('show')) {
+                $('.navbar-collapse').collapse('hide');
+            } else {
+                $('.navbar-collapse').collapse('show');
+            }
+        });
+    });
+</script>
+
+<!-- 公告模态框 -->
+<div class="modal fade" id="announcementModal" tabindex="-1" aria-labelledby="announcementModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="announcementModalLabel">平台公告</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p><center>1.平台每隔3分钟爬取一次数据进行报告输出和展示！<br>2.数据来自于5个不同的平台:<br> </p>
+				<p style="color: red;"><strong> OSCS1024漏洞库.<br>安天(antiycloud).<br>Tenable (Nessus).<br>Msrc(微软安全响应中心).<br>CVE官方漏洞库.</strong> </p>
+				<p><br>3.处理数据需要2-3分钟，所以不用一直刷新网页！
+				<br>4.如果有好的数据来源或平台，可公众号联系作者</p>
+				<p style="color: red;">微信公众号:法克安全</center></p>
+				</div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">关闭</button>
+            </div>
+        </div>
+    </div>
+</div>
+{% include  "footer.html" %}

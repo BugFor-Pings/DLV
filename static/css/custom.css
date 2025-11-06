@@ -1,0 +1,44 @@
+/* 自定义样式 */
+.card-hover:hover {
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    transform: translateY(-3px);
+    transition: all 0.3s ease;
+}
+
+/* 自适应样式 */
+@media (max-width: 767.98px) {
+    .card-title {
+        font-size: 1rem;
+    }
+    
+    .card-text {
+        font-size: 0.9rem;
+    }
+    
+    .pagination .page-link {
+        padding: 0.25rem 0.5rem;
+        font-size: 0.875rem;
+    }
+}
+
+/* 来源标记颜色 */
+.source-oscs {
+    border-left-color: #28a745 !important;
+}
+
+.source-antiy {
+    border-left-color: #dc3545 !important;
+}
+
+.source-tenable {
+    border-left-color: #fd7e14 !important;
+}
+
+/* 详情按钮动画 */
+.detail-btn {
+    transition: all 0.3s ease;
+}
+
+.detail-btn:hover {
+    transform: scale(1.05);
+} 

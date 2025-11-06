@@ -1,0 +1,99 @@
+{% extends "layout.html" %}
+
+{% block title %}简易漏洞预警平台 - 每日最新漏洞信息{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-12">
+			<br> <center>
+        <h1 class="mb-4">每日最新漏洞情报</h1>
+        		</br> </center>
+        {% if not vulnerabilities %}
+        <div class="alert alert-info">
+            <i class="bi bi-info-circle"></i> 暂无漏洞信息
+        </div>
+        {% else %}
+        
+        <div class="row">
+            {% for vuln in vulnerabilities %}
+            <div class="col-12 mb-3">
+                <div class="card vulnerability-card 
+                    {% if 'OSCS1024' in vuln.source %}vulnerability-source-oscs
+                    {% elif '安天' in vuln.source %}vulnerability-source-antiy
+                    {% elif 'Tenable' in vuln.source %}vulnerability-source-tenable
+                    {% elif '微软安全响应中心' in vuln.source %}vulnerability-source-microsoft
+                    {% elif 'CVE漏洞库' in vuln.source %}vulnerability-source-okcve{% endif %}">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between align-items-start">
+                            <h5 class="card-title mb-2">{{ vuln.title }}</h5>
+                            <span class="badge 
+                                {% if 'OSCS1024' in vuln.source %}source-badge-oscs
+                                {% elif '安天' in vuln.source %}source-badge-antiy
+                                {% elif 'Tenable' in vuln.source %}source-badge-tenable
+                                {% elif '微软安全响应中心' in vuln.source %}source-badge-microsoft
+                                {% elif 'CVE漏洞库' in vuln.source %}source-badge-okcve{% endif %}">
+                                {{ vuln.source }}
+                            </span>
+                        </div>
+                        
+                        <div class="card-text mb-2">
+                            <div class="row">
+                                <div class="col-md-3 col-sm-4">
+                                    <small class="text-muted"><i class="bi bi-calendar"></i> 时间：</small>
+                                    <small>{{ vuln.time }}</small>
+                                </div>
+                                <div class="col-md-9 col-sm-8">
+                                    <small class="text-muted"><i class="bi bi-hash"></i> 编号：</small>
+                                    <small>{{ vuln.ids }}</small>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <a href="{{ vuln.detail_url }}" class="btn btn-sm btn-primary detail-link" target="_blank">
+                            <i class="bi bi-box-arrow-up-right"></i> 查看详情
+                        </a>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        
+        <!-- 分页 -->
+        {% if total_pages > 1 %}
+        <nav aria-label="漏洞列表分页">
+            <ul class="pagination">
+                {% if page > 1 %}
+                <li class="page-item">
+                    <a class="page-link" href="?page={{ page - 1 }}{% if query %}&q={{ query }}{% endif %}{% if current_source %}&source={{ current_source }}{% endif %}" aria-label="上一页">
+                        <span aria-hidden="true">&laquo;</span>
+                    </a>
+                </li>
+                {% endif %}
+                
+                {% for i in range(1, total_pages + 1) %}
+                    {% if i == page %}
+                    <li class="page-item active"><span class="page-link">{{ i }}</span></li>
+                    {% elif i <= 3 or i >= total_pages - 2 or (i >= page - 1 and i <= page + 1) %}
+                    <li class="page-item">
+                        <a class="page-link" href="?page={{ i }}{% if query %}&q={{ query }}{% endif %}{% if current_source %}&source={{ current_source }}{% endif %}">{{ i }}</a>
+                    </li>
+                    {% elif i == 4 and page > 4 or i == total_pages - 3 and page < total_pages - 3 %}
+                    <li class="page-item disabled"><span class="page-link">...</span></li>
+                    {% endif %}
+                {% endfor %}
+                
+                {% if page < total_pages %}
+                <li class="page-item">
+                    <a class="page-link" href="?page={{ page + 1 }}{% if query %}&q={{ query }}{% endif %}{% if current_source %}&source={{ current_source }}{% endif %}" aria-label="下一页">
+                        <span aria-hidden="true">&raquo;</span>
+                    </a>
+                </li>
+                {% endif %}
+            </ul>
+        </nav>
+        {% endif %}
+        
+        {% endif %}
+    </div>
+</div>
+{% endblock %}
